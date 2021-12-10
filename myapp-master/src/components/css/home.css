@@ -1,0 +1,10 @@
+.welcomr_title {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    border-radius: 10px;
+    transform: translate(-50%, -50%);
+    background-color: #ffffff;
+    box-shadow: 5px 5px 5px 5px #f1cdcd;
+  }
+  
