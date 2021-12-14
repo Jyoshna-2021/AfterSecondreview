@@ -1,0 +1,33 @@
+.wrapper{
+  display: flex;
+  flex-direction: column;
+}
+  
+  .container {
+    display: flex;
+   width: 50%;
+   height: 50%;
+   background-color: #B0C4DE;
+   margin-top: 50px;
+   margin-left: 20%;
+   border-style: none;
+   box-shadow: 3px 3px 3px #a8a8a8;
+   border-radius: 20px;
+  }
+  .profile-head{
+    width: 40%;
+    height: 100%;
+    padding: 35px;
+  }
+  .container,.user-detail{
+    font-size: large;
+    font-weight: bolder;
+    width: 40%;
+    height: 40%;
+    padding: 35px;
+  }
+  .container,.profile-img{
+    width: 50%;
+    height: 50%;
+  }
+
